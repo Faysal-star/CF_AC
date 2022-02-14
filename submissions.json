@@ -1,4 +1,20 @@
 {
+  "CF146324350": {
+    "contest_id": 1428,
+    "language": "GNU C11",
+    "path": "codeforces\\1428\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Box is Pull",
+    "problem_url": "https://codeforces.com/contest/1428/problem/A",
+    "submission_id": "CF146324350",
+    "submission_url": "https://codeforces.com/contest/1428/submission/146324350",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/14/2022 14:37"
+  },
   "CF148662468": {
     "contest_id": 617,
     "language": "GNU C11",

@@ -4,6 +4,8 @@ int main(){
     int t ; cin >> t ;
     while(t--){
         long long x ; cin >> x ;
-        cout << ((x & (x-1)) ? "YES\n" : "NO\n") ;
+        while(x % 2 == 0) x /= 2 ;
+        if(x == 1) cout << "NO\n";
+        else cout << "YES\n";
     }
 }

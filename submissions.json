@@ -1,4 +1,22 @@
 {
+  "CF154576091": {
+    "contest_id": 1671,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1671\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Consecutive Points Segment",
+    "problem_url": "https://codeforces.com/contest/1671/problem/B",
+    "submission_id": "CF154576091",
+    "submission_url": "https://codeforces.com/contest/1671/submission/154576091",
+    "tags": [
+      "brute force",
+      "math",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Apr/22/2022 22:34"
+  },
   "CF154855071": {
     "contest_id": 112,
     "language": "GNU C++20 (64)",

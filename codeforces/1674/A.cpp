@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+float lab(float a, float b)
+{
+    return log2(a) / log2(b);
+}
 int main(){
     int t ; cin >> t ; 
     while(t--){

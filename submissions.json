@@ -1381,6 +1381,23 @@
     ],
     "timestamp": "Jun/02/2022 18:50"
   },
+  "CF167225454": {
+    "contest_id": 1714,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1714\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Everyone Loves to Sleep",
+    "problem_url": "https://codeforces.com/contest/1714/problem/A",
+    "submission_id": "CF167225454",
+    "submission_url": "https://codeforces.com/contest/1714/submission/167225454",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/06/2022 19:45"
+  },
   "CF167226007": {
     "contest_id": 1714,
     "language": "GNU C++20 (64)",

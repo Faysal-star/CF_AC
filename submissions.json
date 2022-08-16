@@ -1381,6 +1381,23 @@
     ],
     "timestamp": "Jun/02/2022 18:50"
   },
+  "CF168535109": {
+    "contest_id": 1719,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1719\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chip Game",
+    "problem_url": "https://codeforces.com/contest/1719/problem/A",
+    "submission_id": "CF168535109",
+    "submission_url": "https://codeforces.com/contest/1719/submission/168535109",
+    "tags": [
+      "games",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/16/2022 20:55"
+  },
   "CF168552169": {
     "contest_id": 1719,
     "language": "GNU C++20 (64)",

@@ -1381,6 +1381,25 @@
     ],
     "timestamp": "Jun/02/2022 18:50"
   },
+  "CF168719090": {
+    "contest_id": 1719,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1719\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fighting Tournament",
+    "problem_url": "https://codeforces.com/contest/1719/problem/C",
+    "submission_id": "CF168719090",
+    "submission_url": "https://codeforces.com/contest/1719/submission/168719090",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Aug/17/2022 21:50"
+  },
   "CF169099862": {
     "contest_id": 1715,
     "language": "GNU C++20 (64)",

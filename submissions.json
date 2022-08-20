@@ -1381,6 +1381,23 @@
     ],
     "timestamp": "Jun/02/2022 18:50"
   },
+  "CF169172045": {
+    "contest_id": 1720,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1720\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Burenka Plays with Fractions",
+    "problem_url": "https://codeforces.com/contest/1720/problem/A",
+    "submission_id": "CF169172045",
+    "submission_url": "https://codeforces.com/contest/1720/submission/169172045",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Aug/21/2022 01:23"
+  },
   "CF170648535": {
     "contest_id": 1717,
     "language": "GNU C++20 (64)",

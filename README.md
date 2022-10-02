@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+77 | [B - Array Recovery](https://codeforces.com/contest/1739/problem/B) | [GNU C++20 (64)](./codeforces/1739/B.cpp) | `constructive algorithms` `greedy` `math` | Oct/02/2022 19:31 | 
 76 | [A - Coins](https://codeforces.com/contest/1061/problem/A) | [GNU C++20 (64)](./codeforces/1061/A.cpp) | `greedy` `implementation` `math` `*800` | Jun/02/2022 18:50 | 
 75 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [GNU C++20 (64)](./codeforces/339/A.cpp) | `greedy` `implementation` `sortings` `strings` `*800` | May/28/2022 12:44 | 
 74 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [GNU C++20 (64)](./codeforces/1108/B.cpp) | `brute force` `greedy` `math` `number theory` `*1100` | May/25/2022 21:09 | 
